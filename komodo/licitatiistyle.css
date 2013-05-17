@@ -1,0 +1,46 @@
+#block .left-block-search{
+   float: left;
+    width: 220px;
+    list-style-type:none;
+}
+#block .right-block-search{
+    float: left;
+    width: 219px;
+    list-style-type:none;
+    margin-left:20px;
+}
+.cautare{
+    margin-left:250px;
+    width:460px;
+    
+}
+#block{
+    margin-top: -6px;
+    overflow: hidden;
+    float:right;
+}
+label {
+    font-weight: bold;
+    margin-bottom: 0;
+    width: auto;
+   line-height: 33px;
+    font-weight: bold;
+    color: #A19A8D;
+    width: auto;
+
+}
+.selectbox
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px 4px 4px 4px;
+    display: inline-block;
+    outline: medium none;
+    overflow: auto;
+    text-decoration: none;
+    width: 220px;
+}
+
+.selectbox selected{
+  background-color: #C8DEF4;
+}

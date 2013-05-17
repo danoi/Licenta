@@ -1,0 +1,36 @@
+
+h3 {
+    color: #4169E1;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+table th {
+    background: url("images/bara.png") repeat center top;
+  
+    
+    height: 48px;
+    line-height: 13px;
+    padding: 0 12px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    color: #666666;
+    font-size: 20px;
+    font-weight: bold;
+}
+table{
+    width:700px;
+    margin-left:20px;
+}
+a{
+    color:#4169E1;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    text-decoration: none;
+
+}

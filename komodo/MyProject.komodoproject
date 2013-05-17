@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" kpf_version="5" name="MyProject.komodoproject">
+<file id="09488218-6ff4-4333-a61f-4f38c03e50df" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="logare.php" url="logare.php">
+</file>
+<file id="106cfd74-eec2-4dde-8d4b-d844911fca34" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="inregistrare.php" url="inregistrare.php">
+</file>
+<file id="1121ade9-7643-40f2-9061-d95e26b09e67" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="activestyle.css" url="activestyle.css">
+</file>
+<file id="2070b6be-bb4e-4e6a-80be-46e26645ba48" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="introducere_final.php" url="introducere_final.php">
+</file>
+<file id="21d2b123-ef20-4bc2-85a9-fb3e201a03e1" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="acasa.html" url="acasa.html">
+</file>
+<file id="2558bab8-0e67-4cbf-98c9-1e2ed0a0a1d8" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="licitatiistyle.css" url="licitatiistyle.css">
+</file>
+<file id="3d72a9b3-37bc-4c52-8991-bc16309e471a" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="activitatistyle.css" url="activitatistyle.css">
+</file>
+<file id="47dad42b-ef05-4e24-81a4-9924db5f0f98" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="ajutorstyle.css" url="ajutorstyle.css">
+</file>
+<file id="4b5aa43a-5044-42fa-9e20-e75dde33900a" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="validare_mail.php" url="validare_mail.php">
+</file>
+<file id="4dc38cde-dd27-4130-98f0-05ce5ba1b53e" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="inregprod.php" url="inregprod.php">
+</file>
+<file id="54fc5bf0-1068-404d-bf2c-cb2dfb153b54" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="search.php" url="search.php">
+</file>
+<file id="62909497-db46-443d-8cce-c9e4461adc5a" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="config.php" url="config.php">
+</file>
+<file id="77a05b88-f8de-4ace-b276-8537e4894c12" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="edit_form.php" url="edit_form.php">
+</file>
+<file id="841848d4-92c4-4790-92d0-d03464a800a5" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="cont.php" url="cont.php">
+</file>
+<file id="883e6412-9549-4eb2-811e-f7bc0930f6db" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="pagina.php" url="pagina.php">
+</file>
+<file id="8b07aa7e-99c8-4379-98a2-bc33f9ac1266" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="cont.css" url="cont.css">
+</file>
+<file id="973ae450-861b-4272-b06b-5f8310b29685" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="introducere_form.php" url="introducere_form.php">
+</file>
+<file id="9df5e035-f3a7-4bff-b77f-69e682ceb683" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="conditii.php" url="conditii.php">
+</file>
+<file id="a0c16ef7-8c58-4965-8447-ec38c6f9219f" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="stylesheet.css" url="stylesheet.css">
+</file>
+<file id="a73a4d86-c765-4975-bb46-b98d94e5cb44" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="activitati.php" url="activitati.php">
+</file>
+<file id="a91800e4-6c80-4059-8e7f-605da0658937" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="introducere_licitatie.php" url="introducere_licitatie.php">
+</file>
+<file id="bba9b75a-2cce-402f-b904-0fee919d0985" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="edit_final.php" url="edit_final.php">
+</file>
+<file id="c01d7617-321e-49f1-86d3-41f2b37de504" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="ajutor.html" url="ajutor.html">
+</file>
+<file id="e99c2822-fefd-41c3-890a-f4a8b0b7cd49" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="inregistrarestyle.css" url="inregistrarestyle.css">
+</file>
+<file id="ece246df-727b-494d-8f03-8e1459cae36e" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="admin.php" url="admin.php">
+</file>
+<file id="f0f5390a-a0ef-4930-90f7-8e3d976ed0ec" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="stergereLicitatie.php" url="stergereLicitatie.php">
+</file>
+<file id="fc0931da-5515-41e6-b50f-c00df23386b5" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="vindestyle.css" url="vindestyle.css">
+</file>
+<file id="fecae075-a853-4308-89f6-f9a3e6714e0a" idref="0e6d95fb-fe72-4c2e-8f5c-9a182b890e7e" name="detalii_masina.php" url="detalii_masina.php">
+</file>
+</project>

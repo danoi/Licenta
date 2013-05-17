@@ -1,0 +1,40 @@
+table th.first {
+    background: url("../imgs/table-header.jpg") no-repeat scroll left top transparent;
+    text-align: left;
+}
+table th {
+  
+    color: #7D776B;
+    font-size: 15px;
+    font-weight: normal;
+    height: 48px;
+    line-height: 13px;
+    padding: 0 12px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+table td {
+    border: 1px solid #968568;
+    padding: 6px;
+    text-align: center;
+    vertical-align: middle;
+     color: #776E6A;
+    font-size: 12px;
+    line-height: 16px;
+}
+table{
+    width:650px;
+    
+    margin-top:20px;
+    
+   
+}
+table tr{
+    border-bottom:1px solid #abcedf;
+}
+
+#rezultate_cautari{
+    border-left:2px solid #7D776B;
+}

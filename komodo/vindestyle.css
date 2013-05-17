@@ -1,0 +1,21 @@
+#content #tabel table{
+    border:2px solid;
+    margin-top:20px;
+    width:600px;
+   
+    
+    
+}
+#tabel{margin-left:40px;
+border-left:1px solid;
+width:700px;
+float:right;}
+#tabel tr{
+    margin-right:10px;
+    width:700px;
+    border:1px solid;
+}
+#tabel td{
+    color:#A19A8D;
+     border:1px solid;
+}
